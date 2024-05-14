@@ -11,7 +11,7 @@ Simple RAG CLI app to demonstrate RAG functionalities on Premier League files fr
    ```
 5. Create a file named `env.py`
    ```python
-   openai_api_key = '<YOUR_OPENAI_API_KEY>
+   openai_api_key = '<YOUR_OPENAI_API_KEY>'
    ```
 6. Create the DB
    ```python
@@ -19,7 +19,7 @@ Simple RAG CLI app to demonstrate RAG functionalities on Premier League files fr
    ```
 7. Query DB
    ```python
-   python query_data.py <YOUR_QUERY>
+   python query_data.py '<YOUR_QUERY>'
    ```
 ## Trial
 Query = *Which footballer has the record for a highest scorer in a single season?*
