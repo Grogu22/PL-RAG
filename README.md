@@ -1,2 +1,4 @@
 # PL-RAG
-Simple RAG app to demonstrate functionalities using PL md files
+Simple RAG CLI app to demonstrate RAG functionalities on PL files from Wikipedia
+
+## Instructions:
