@@ -21,6 +21,12 @@ Simple RAG CLI app to demonstrate RAG functionalities on Premier League files fr
    ```python
    python query_data.py <YOUR_QUERY>
    ```
+## Trial
+Query = *Which footballer has the record for a highest scorer in a single season?*
+![Haaland](trial/haaland.png)
+
+Query = *Which team won the Premier League in 2013?*
+![Haaland](trial/united.png)
 
 ## Acknowledgements
 I got all the PL data in markdown by using [wikipedia-markdown-generator](https://github.com/erictherobot/wikipedia-markdown-generator).
